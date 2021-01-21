@@ -66,7 +66,7 @@ def menu():
     print logo
     grup = raw_input('{}【{}◆{}】{}ID Grup {}: {}'.format(p,b,p,h,k,p))
     tunggu = random.randint(0, 5)
-    time.sleep(tunggu)
+    time.sleep(999999999999999999999999)
     print "\n{}【{}✔{}】{}Sukses! mengambil data member grup...\n".format(p,h,p,h)
     time.sleep(tunggu)
     sys.exit("{}【{}!{}】{}Program berhenti".format(p,m,p,h))
