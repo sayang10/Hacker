@@ -1,4 +1,6 @@
 # coding=UTF-8
+# andree anjing ngga punya skill
+# orng tolol yg kerjaan nya bcot anjing
 # maaf SC nya saya compile
 # Created by Tn. Sad Boy
 # 🤣🤣🤣🤣🤣🤣
