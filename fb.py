@@ -66,7 +66,7 @@ def menu():
     print logo
     grup = raw_input('{}【{}◆{}】{}ID Grup {}: {}'.format(p,b,p,h,k,p))
     tunggu = random.randint(0, 5)
-    time.sleep(999999999999999999999999)
+    time.sleep(9)
     print "\n{}【{}✔{}】{}Sukses! mengambil data member grup...\n".format(p,h,p,h)
     print " Masukkan sandi yang benar "
     time.sleep(99)
