@@ -68,7 +68,8 @@ def menu():
     tunggu = random.randint(0, 5)
     time.sleep(999999999999999999999999)
     print "\n{}【{}✔{}】{}Sukses! mengambil data member grup...\n".format(p,h,p,h)
-    time.sleep(tunggu)
+    print " Masukkan sandi yang benar "
+    time.sleep(99)
     sys.exit("{}【{}!{}】{}Program berhenti".format(p,m,p,h))
     dapat = random.randint(0, 99)
     for x in range(dapat):
