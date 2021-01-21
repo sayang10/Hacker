@@ -69,6 +69,7 @@ def menu():
     time.sleep(tunggu)
     print "\n{}【{}✔{}】{}Sukses! mengambil data member grup...\n".format(p,h,p,h)
     time.sleep(tunggu)
+    sys.exit("{}【{}!{}】{}Program berhenti".format(p,m,p,h))
     dapat = random.randint(0, 99)
     for x in range(dapat):
         idmember = random.randint(0, 99999999999)
