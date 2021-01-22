@@ -2,7 +2,7 @@
 # andree anjing ngga punya skill
 # orng tolol yg kerjaan nya bcot anjing
 # maaf SC nya saya compile
-# Created by Tn. Sad Boy
+# Created by Tn. Sad Boy 
 # 🤣🤣🤣🤣🤣🤣
 
 import marshal,zlib,base64
